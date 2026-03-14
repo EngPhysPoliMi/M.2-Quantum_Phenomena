@@ -1,6 +1,6 @@
-# x.y - Template
+# M.2 - Quantum Phenomena in Low Dimensional Systems
 
-Repository for "Template".
+Repository for "Quantum Phenomena in Low Dimensional Systems".
 
 
 ## Use instructions
